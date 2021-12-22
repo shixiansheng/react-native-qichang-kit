@@ -1,6 +1,6 @@
 {
   "name": "@wfengtech/react-native-qichang-kit",
-  "version": "0.19.2",
+  "version": "1.0.0",
   "description": "QiChang UI 框架",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -66,11 +66,11 @@
     "typescript": "^3.8.3"
   },
   "peerDependencies": {
+    "beeshell": "^2.0.11",
     "react": "*",
     "react-native": "*",
     "react-native-fast-image": "*",
-    "react-native-safe-area-context": "^3.2.0",
-    "beeshell": "^2.0.11"
+    "react-native-safe-area-context": "^3.2.0"
   },
   "jest": {
     "preset": "react-native",
