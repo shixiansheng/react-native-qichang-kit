@@ -1,5 +1,5 @@
 {
-  "name": "@damoness/react-native-qichang-kit",
+  "name": "@wfengtech/react-native-qichang-kit",
   "version": "0.19.2",
   "description": "QiChang UI 框架",
   "main": "lib/commonjs/index",
@@ -34,13 +34,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/Damoness/react-native-qichang-kit",
-  "author": "Damoness <qjwdcool@gmail.com> (https://github.com/Damoness)",
+  "repository": "https://github.com/shixiansheng/react-native-qichang-kit",
+  "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Damoness/react-native-qichang-kit/issues"
+    "url": "https://github.com/shixiansheng/react-native-qichang-kit/issues"
   },
-  "homepage": "https://github.com/Damoness/react-native-qichang-kit#readme",
+  "homepage": "https://github.com/shixiansheng/react-native-qichang-kit#readme",
   "devDependencies": {
     "@commitlint/config-conventional": "^8.3.4",
     "@react-native-community/bob": "^0.16.2",
